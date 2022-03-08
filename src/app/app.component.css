@@ -1,0 +1,103 @@
+@import  url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Poppins:wght@300&display=swap');
+.font{
+    color: black;
+    position: absolute;
+    z-index: 100;
+    font-family: 'Poppins', sans-serif;;
+}
+
+h2{
+    margin-top: 43rem;
+    margin-left: 20rem;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+
+.pic{
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;  
+    position: absolute;
+}
+#container {
+  height: 400px;
+  width: 400px;
+  position: relative;
+}
+
+.line {
+    width: 100%;
+    overflow: hidden;
+    padding: 0;
+  }
+  .lineUp {
+    animation: 2s anim-lineUp ease-out ;
+    font-size: 8rem;
+    margin-left: 31rem;
+    margin-top: 11rem;
+    background-color: rgba(255, 255, 255, 0.459);
+
+
+  }
+  @keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+  @keyframes fadeInOut {
+    0% {
+      opacity: 0;
+    }
+  
+    45% {
+      opacity: 1;
+    }
+  
+    100% {
+      opacity: 100%;
+    }
+  }
+  
+  .fourth-text {
+    opacity: 100%;
+    animation-name: fadeInOut;
+    animation-duration:10s;
+  }
+  #top{
+      margin-top: 46rem;
+      color: black;
+  }
+  #bg{
+      color: white;
+      margin-top: 46rem;
+  }
+  #left{
+    margin-left: 25rem;
+  }
+  #lef{
+      margin-left: 35rem;
+  }
+  #leff{
+      margin-left: 30rem;
+      background-color: rgba(255, 255, 255, 0.459);
+  }
+  #leff1{
+    margin-top: 47rem;
+    margin-left: 30rem;
+}
