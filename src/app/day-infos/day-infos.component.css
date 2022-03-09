@@ -8,9 +8,18 @@
 
 h2{
     margin-top: 43rem;
-    margin-left: 3rem;
-    font-size: 1.3rem;
+    margin-left: 20rem;
+    margin-right:20rem;
+    font-size: 1.9rem;
     font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+   
+      border: 2px solid none;
+      border-radius: 15px;
+      background-color: rgba(255, 255, 255, 0.116);
+      backdrop-filter: blur(8px);
+
 }
 
 
@@ -39,7 +48,10 @@ h2{
     font-size: 8rem;
     margin-left: 31rem;
     margin-top: 11rem;
-    background-color: rgba(255, 255, 255, 0.459);
+    background-color: rgba(255, 255, 255, 0.116);
+    backdrop-filter: blur(8px);
+
+
 
 
   }
