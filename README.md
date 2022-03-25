@@ -3,6 +3,8 @@ It's an angular app , it shows what day is today and it generates a random backg
 Available on : https://quotesday.netlify.app/
 
 ![Capture d’écran 2022-03-25 131909](https://user-images.githubusercontent.com/77991759/160142784-58d002ab-44e6-4663-90d1-65c108c6410a.jpg)
+
+
 ![Capture d’écran 2022-03-08 221826](https://user-images.githubusercontent.com/77991759/160143331-8840d528-f26f-43fa-868f-574d6e388506.jpg)
 
 
